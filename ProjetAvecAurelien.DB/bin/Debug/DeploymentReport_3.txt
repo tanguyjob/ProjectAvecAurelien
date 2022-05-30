@@ -1,0 +1,19 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Hero] (Table)
+       [dbo].[Race] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Race] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Race] (Contrainte par défaut)
+       [dbo].[FK_Hero__Race] (Clé étrangère)
+
+** Actions de support

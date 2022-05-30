@@ -1,0 +1,10 @@
+C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\bin\Debug\ProjetAvecAurelien.DB.dacpac
+C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\bin\Debug\ProjetAvecAurelien.DB.dll
+C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\bin\Debug\ProjetAvecAurelien.DB.pdb
+C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\ProjetAvecAurelien.DB.sqlproj.AssemblyReference.cache
+C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\ProjetAvecAurelien.DB.dll
+C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\ProjetAvecAurelien.DB.pdb
+C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\Model.xml
+C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\refactor.xml
+C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\postdeploy.sql
+C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\predeploy.sql
