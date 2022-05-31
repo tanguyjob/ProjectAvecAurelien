@@ -8,3 +8,13 @@ C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\obj\Debug
 C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\refactor.xml
 C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\postdeploy.sql
 C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\predeploy.sql
+C:\Users\tanguy\Desktop\digitalcity\ProjectAvecAurelien\ProjetAvecAurelien.DB\bin\Debug\ProjetAvecAurelien.DB.dacpac
+C:\Users\tanguy\Desktop\digitalcity\ProjectAvecAurelien\ProjetAvecAurelien.DB\bin\Debug\ProjetAvecAurelien.DB.dll
+C:\Users\tanguy\Desktop\digitalcity\ProjectAvecAurelien\ProjetAvecAurelien.DB\bin\Debug\ProjetAvecAurelien.DB.pdb
+C:\Users\tanguy\Desktop\digitalcity\ProjectAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\ProjetAvecAurelien.DB.sqlproj.AssemblyReference.cache
+C:\Users\tanguy\Desktop\digitalcity\ProjectAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\Model.xml
+C:\Users\tanguy\Desktop\digitalcity\ProjectAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\refactor.xml
+C:\Users\tanguy\Desktop\digitalcity\ProjectAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\postdeploy.sql
+C:\Users\tanguy\Desktop\digitalcity\ProjectAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\predeploy.sql
+C:\Users\tanguy\Desktop\digitalcity\ProjectAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\ProjetAvecAurelien.DB.dll
+C:\Users\tanguy\Desktop\digitalcity\ProjectAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\ProjetAvecAurelien.DB.pdb

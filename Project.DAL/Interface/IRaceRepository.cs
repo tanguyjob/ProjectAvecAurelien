@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Project.DAL.Interface
 {
-    public interface IRaceRepository: IRepository<int, RaceEntity>
+    public interface IRaceRepository : IRepository<int, RaceEntity>
     {
 
     }

@@ -31,7 +31,7 @@ namespace Project.DAL.Repositories
         {
             Command cmd = new Command("select * from race");
 
-            return _Connection.ExecuteReader(cmd,MapRecordToRace);
+            return _Connection.ExecuteReader(cmd, MapRecordToRace);
 
         }
         private RaceEntity MapRecordToRace(IDataRecord record)
@@ -48,23 +48,32 @@ namespace Project.DAL.Repositories
         public RaceEntity GetById(int id)
         {
             Command cmd = new Command("SELECT * FROM Id_Race = @Id_Race");
-            cmd.AddParameter("Id_Race",id);
-           return _Connection.ExecuteReader(cmd, MapRecordToRace).SingleOrDefault();
+            cmd.AddParameter("Id_Race", id);
+            return _Connection.ExecuteReader(cmd, MapRecordToRace).SingleOrDefault();
         }
 
         public int Insert(RaceEntity entity)
         {
-           Command cmd = new Command("INSERT INTO Race (Name, EnduranceModifier, Strength_Modifier) values (@Name,@Endurance_Modifier,@Strength_Modifier)");
+            Command cmd = new Command("INSERT INTO Race (Name, EnduranceModifier, Strength_Modifier) values (@Name,@Endurance_Modifier,@Strength_Modifier)");
             cmd.AddParameter("Name", entity.Name);
             cmd.AddParameter("Endurance_Modifier", entity.EnduranceModifier);
             cmd.AddParameter("Strength_Modifier", entity.StrengthModifier);
 
-           return (int) _Connection.ExecuteScalar(cmd);
+            return (int)_Connection.ExecuteScalar(cmd);
         }
 
         public bool Update(int id, RaceEntity entity)
         {
-            throw new NotImplementedException();
+            command cmd = new command("UPDATE Race " +
+                "Set Name=@Name, EnduranceModifier=@Endurance_Modifier, Strength_Modifier=@Strength_Modifier" +
+                "where Id_Race=@Id_Race");
+            cmd.AddParameter("Name", entity.Name);
+            cmd.AddParameter("Endurance_Modifier", entity.EnduranceModifier);
+            cmd.AddParameter("Strength_Modifier", entity.StrengthModifier);
+            cmd.AddParameter("Id_Race", entity.IdRace);
+
+            return _Connection.ExecuteNonQuery(cmd) == 1;
+
         }
     }
 }

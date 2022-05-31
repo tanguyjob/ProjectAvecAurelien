@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "JHFjLaontcUBUm+DcH3mDQMlf2O7K2thV5NLCd6r8MjD2hLTl6/4k4wcXsJGrmck8rVKFwkHr4u8yfpmdbLaOw==",
+  "dgSpecHash": "NYFl4HRPyWSWwD/WTVUriRzrLGloI6lqkn1BTvZS2YNcLzKJqAZvNhSetod6IzmjacmXTc0bkE9xXTQsTolOpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\STG1257\\source\\repos\\ProjetAvecAurelien\\Tools.Connections\\Tools.Connections.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\tanguy\\Desktop\\digitalcity\\ProjectAvecAurelien\\Tools.Connections\\Tools.Connections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanguy\\.nuget\\packages\\microsoft.netcore.app\\2.2.8\\microsoft.netcore.app.2.2.8.nupkg.sha512",
+    "C:\\Users\\tanguy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.8\\microsoft.netcore.dotnetapphost.2.2.8.nupkg.sha512",
+    "C:\\Users\\tanguy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.8\\microsoft.netcore.dotnethostpolicy.2.2.8.nupkg.sha512",
+    "C:\\Users\\tanguy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.8\\microsoft.netcore.dotnethostresolver.2.2.8.nupkg.sha512",
+    "C:\\Users\\tanguy\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.4\\microsoft.netcore.platforms.2.2.4.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="ProjetAvecAurelien.DB.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\STG1257\SOURCE\REPOS\PROJETAVECAURELIEN\PROJETAVECAURELIEN.DB\OBJ\DEBUG\PROJETAVECAURELIEN.DB.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\TANGUY\DESKTOP\DIGITALCITY\PROJECTAVECAURELIEN\PROJETAVECAURELIEN.DB\OBJ\DEBUG\PROJETAVECAURELIEN.DB.DLL" />
 			<Metadata Name="AssemblyName" Value="ProjetAvecAurelien.DB" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\STG1257\source\repos\ProjetAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\ProjetAvecAurelien.DB.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\tanguy\Desktop\digitalcity\ProjectAvecAurelien\ProjetAvecAurelien.DB\obj\Debug\ProjetAvecAurelien.DB.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>

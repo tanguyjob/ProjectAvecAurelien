@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\STG1257\\source\\repos\\ProjetAvecAurelien\\Tools.Connections\\Tools.Connections.csproj": {}
+    "C:\\Users\\tanguy\\Desktop\\digitalcity\\ProjectAvecAurelien\\Tools.Connections\\Tools.Connections.csproj": {}
   },
   "projects": {
-    "C:\\Users\\STG1257\\source\\repos\\ProjetAvecAurelien\\Tools.Connections\\Tools.Connections.csproj": {
+    "C:\\Users\\tanguy\\Desktop\\digitalcity\\ProjectAvecAurelien\\Tools.Connections\\Tools.Connections.csproj": {
       "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\STG1257\\source\\repos\\ProjetAvecAurelien\\Tools.Connections\\Tools.Connections.csproj",
+        "projectUniqueName": "C:\\Users\\tanguy\\Desktop\\digitalcity\\ProjectAvecAurelien\\Tools.Connections\\Tools.Connections.csproj",
         "projectName": "Tools.Connections",
-        "projectPath": "C:\\Users\\STG1257\\source\\repos\\ProjetAvecAurelien\\Tools.Connections\\Tools.Connections.csproj",
-        "packagesPath": "C:\\Users\\STG1257\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\STG1257\\source\\repos\\ProjetAvecAurelien\\Tools.Connections\\obj\\",
+        "projectPath": "C:\\Users\\tanguy\\Desktop\\digitalcity\\ProjectAvecAurelien\\Tools.Connections\\Tools.Connections.csproj",
+        "packagesPath": "C:\\Users\\tanguy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tanguy\\Desktop\\digitalcity\\ProjectAvecAurelien\\Tools.Connections\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\STG1257\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tanguy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\STG1257\\Documents\\Nuggets": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +42,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -50,12 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
